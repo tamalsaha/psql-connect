@@ -3,20 +3,9 @@ module github.com/tamalsaha/psql-connect
 go 1.12
 
 require (
-	cloud.google.com/go v0.39.0 // indirect
-	contrib.go.opencensus.io/exporter/ocagent v0.5.0 // indirect
-	github.com/Azure/go-autorest v12.0.0+incompatible // indirect
 	github.com/codeskyblue/go-sh v0.0.0-20190412065543-76bd3d59ff27
-	github.com/gophercloud/gophercloud v0.0.0-20190516165734-b3a23cc94cc5 // indirect
-	github.com/grpc-ecosystem/grpc-gateway v1.9.0 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
-	golang.org/x/crypto v0.0.0-20190513172903-22d7a77e9e5f // indirect
-	golang.org/x/net v0.0.0-20190514140710-3ec191127204 // indirect
-	golang.org/x/oauth2 v0.0.0-20190517181255-950ef44c6e07 // indirect
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58 // indirect
-	golang.org/x/sys v0.0.0-20190516110030-61b9204099cb // indirect
 	google.golang.org/appengine v1.6.0 // indirect
-	google.golang.org/genproto v0.0.0-20190516172635-bb713bdc0e52 // indirect
 	k8s.io/api v0.0.0-20190515023547-db5a9d1c40eb // indirect
 	k8s.io/apimachinery v0.0.0-20190515023456-b74e4c97951f
 	k8s.io/client-go v11.0.0+incompatible
