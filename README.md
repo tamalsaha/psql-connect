@@ -79,7 +79,7 @@ postgres=#
 # using docker
 # https://stackoverflow.com/a/24326540
 
-$ docker run --network=host -it  postgres:10.2 psql --host=127.0.0.1 --port=5436 --username=postgres
+$ docker run --network=host -it  postgres:10.2-alpine psql --host=127.0.0.1 --port=5436 --username=postgres
 psql (10.2 (Debian 10.2-1.pgdg90+1))
 Type "help" for help.
 
