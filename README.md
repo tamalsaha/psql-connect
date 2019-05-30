@@ -1,3 +1,7 @@
+# psql-connect
+
+```console
+
 $ kubectl create ns demo
 namespace/demo created
 
@@ -81,7 +85,7 @@ Type "help" for help.
 
 postgres=#
 
-
+```
 
 
 
