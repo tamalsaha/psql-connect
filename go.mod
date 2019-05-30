@@ -4,8 +4,6 @@ go 1.12
 
 require (
 	github.com/codeskyblue/go-sh v0.0.0-20190412065543-76bd3d59ff27
-	github.com/imdario/mergo v0.3.7 // indirect
-	google.golang.org/appengine v1.6.0 // indirect
 	k8s.io/api v0.0.0-20190515023547-db5a9d1c40eb // indirect
 	k8s.io/apimachinery v0.0.0-20190515023456-b74e4c97951f
 	k8s.io/client-go v11.0.0+incompatible
